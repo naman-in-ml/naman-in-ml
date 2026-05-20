@@ -1,16 +1,23 @@
-## Hi there 👋
+<h1 align="center">Naman Pandey</h1>
 
-<!--
-**naman-in-ml/naman-in-ml** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Animated Typing Text (Minimalist grayscale theme) -->
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=20&pause=1000&color=888888&center=true&vCenter=true&width=435&lines=B.Tech+AI%2FML;Cybersecurity+Focus;Researcher+%2F%2F+Thinker" alt="Typing SVG" />
+  </a>
+</div>
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ✦ Background
+▹ **Studying:** Artificial Intelligence and Machine Learning (B.Tech)  
+▹ **Focus:** Cybersecurity — securing networks and systems  
+▹ **Interests:** Philosophy, reading, and deep-dive research  
+▹ **Connect:** [LinkedIn](https://www.linkedin.com/in/naman-pandey-ai107107bb)  
+
+### ✦ Arsenal
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,java,html,css,linux&theme=dark" alt="Tech Stack" />
+  </a>
+</p>
