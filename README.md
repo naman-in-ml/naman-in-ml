@@ -3,7 +3,7 @@
 <!-- Animated Typing Text (Minimalist grayscale theme) -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=20&pause=1000&color=888888&center=true&vCenter=true&width=435&lines=B.Tech+AI%2FML;Cybersecurity+Focus;Researcher+%2F%2F+Thinker" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=20&pause=1000&color=888888&center=true&vCenter=true&width=435&lines=B.Tech+AI%2FML;AI+Agent+Architectures;Researcher+%2F%2F+Thinker" alt="Typing SVG" />
   </a>
 </div>
 
@@ -21,3 +21,9 @@
     <img src="https://skillicons.dev/icons?i=py,java,html,css,linux&theme=dark" alt="Tech Stack" />
   </a>
 </p>
+
+### ✦ Tech Stack
+▹ **Languages:** Python, C++, TypeScript, etc.  
+▹ **AI/ML:** PyTorch, OpenCV, etc.  
+▹ **Backend:** FastAPI, PostgreSQL, Redis, etc.  
+▹ **Tools:** Linux, Git, Docker, n8n, GitHub, etc.
