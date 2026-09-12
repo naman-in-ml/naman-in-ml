@@ -11,16 +11,10 @@
 
 ### ✦ Background
 ▹ **Studying:** Artificial Intelligence and Machine Learning (B.Tech)  
-▹ **Focus:** Cybersecurity — securing networks and systems  
+▹ **Focus:** AI Agent Architectures 
 ▹ **Interests:** Philosophy, reading, and deep-dive research  
 ▹ **Connect:** [LinkedIn](https://www.linkedin.com/in/naman-pandey-ai107107bb)  
 
-### ✦ Arsenal
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,java,html,css,linux&theme=dark" alt="Tech Stack" />
-  </a>
-</p>
 
 ### ✦ Tech Stack
 ▹ **Languages:** Python, C++, TypeScript, etc.  
