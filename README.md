@@ -11,7 +11,7 @@
 
 ### ✦ Background
 ▹ **Studying:** Artificial Intelligence and Machine Learning (B.Tech)  
-▹ **Focus:** AI Agent Architectures 
+▹ **Focus:** AI Agent Architectures      
 ▹ **Interests:** Philosophy, reading, and deep-dive research  
 ▹ **Connect:** [LinkedIn](https://www.linkedin.com/in/naman-pandey-ai107107bb)  
 
