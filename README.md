@@ -21,3 +21,8 @@
 ▹ **AI/ML:** PyTorch, OpenCV, etc.  
 ▹ **Backend:** FastAPI, PostgreSQL, Redis, etc.  
 ▹ **Tools:** Linux, Git, Docker, n8n, GitHub, etc.
+
+
+### ✦ Projects
+▹ **[Zentube](https://github.com/naman-in-ml/zentube)** — Local-first desktop learning operating system built around YouTube. Transforms educational playlists into organized offline courses with quality options, progress tracking, and watch session logs.
+
