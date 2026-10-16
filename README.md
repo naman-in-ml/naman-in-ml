@@ -24,5 +24,5 @@
 
 
 ### ✦ Projects
-▹ **[Zentube](https://github.com/naman-in-ml/zentube)** — Local-first desktop learning operating system built around YouTube. Transforms educational playlists into organized offline courses with quality options, progress tracking, and watch session logs.
+▹ **[Zentube](https://github.com/naman-in-ml/zentube)** — Local-first desktop learning operating system built with Electron, React 19, and SQLite. Transforms YouTube playlists into structured, distraction-free offline courses with interactive Playlist Explorer, automated SponsorBlock ad-removal, multi-speed playback (up to 4x), closed captions, PiP/mini-player, audio-only mode, and granular watch session logging.
 
