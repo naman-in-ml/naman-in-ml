@@ -1,28 +1,81 @@
-<h1 align="center">Naman Pandey</h1>
+<h1 align="center">Hi, I'm Naman Pandey 👋</h1>
 
-<!-- Animated Typing Text (Minimalist grayscale theme) -->
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=20&pause=1000&color=888888&center=true&vCenter=true&width=435&lines=B.Tech+AI%2FML;AI+Agent+Architectures;Researcher+%2F%2F+Thinker" alt="Typing SVG" />
-  </a>
-</div>
+<p align="center">
+  <strong>AI/ML student building practical software, intelligent agents, and local-first tools.</strong>
+</p>
 
-<br>
+<p align="center">
+  <a href="https://www.linkedin.com/in/naman-pandey-ai107107bb">LinkedIn</a>
+  ·
+  <a href="https://github.com/naman-in-ml">GitHub</a>
+</p>
 
-### ✦ Background
-▹ **Studying:** Artificial Intelligence and Machine Learning (B.Tech)  
-▹ **Focus:** AI Agent Architectures      
-▹ **Interests:** Philosophy, reading, and deep-dive research  
-▹ **Connect:** [LinkedIn](https://www.linkedin.com/in/naman-pandey-ai107107bb)  
+## What I build
 
+I like turning difficult workflows into useful software. My current interests are:
 
-### ✦ Tech Stack
-▹ **Languages:** Python, C++, TypeScript, etc.  
-▹ **AI/ML:** PyTorch, OpenCV, etc.  
-▹ **Backend:** FastAPI, PostgreSQL, Redis, etc.  
-▹ **Tools:** Linux, Git, Docker, n8n, GitHub, etc.
+- AI agents, automation, and retrieval-augmented systems
+- Local-first desktop applications that respect user data
+- Full-stack products with Python backends and modern web interfaces
+- Computer vision and scientific image analysis
+- Developer tools that make technical work easier to inspect and repeat
 
+## Featured projects
 
-### ✦ Projects
-▹ **[Zentube](https://github.com/naman-in-ml/zentube)** — Local-first desktop learning operating system built with Electron, React 19, and SQLite. Transforms YouTube playlists into structured, distraction-free offline courses with interactive Playlist Explorer, automated SponsorBlock ad-removal, multi-speed playback (up to 4x), closed captions, PiP/mini-player, audio-only mode, and granular watch session logging.
+### [Zentube](https://github.com/naman-in-ml/zentube)
 
+An offline learning workspace for turning YouTube playlists into structured courses. It includes playlist downloads, SponsorBlock integration, captions, picture-in-picture, playback progress, study goals, and local SQLite storage.
+
+**Electron · React · TypeScript · SQLite · Node.js**
+
+### [CarbonProof](https://github.com/naman-in-ml/Carbon_Footprint)
+
+A satellite-assisted screening tool for carbon-credit projects. It compares project claims with independent satellite signals and produces explainable credibility scores for human review.
+
+**Next.js · React · FastAPI · Postgres · Google Earth Engine · Supabase**
+
+### [AI Limit Tracker](https://github.com/naman-in-ml/ai-limit-tracker)
+
+A native macOS menu bar app that monitors usage windows and reset times across Claude, Gemini, and ChatGPT/Codex sessions.
+
+**Swift · SwiftUI · AppKit · macOS Keychain**
+
+### [LUNA-REG](https://github.com/naman-in-ml/Soft_landing)
+
+A multi-sensor lunar image registration and 3D reconstruction platform for Chandrayaan-2 imagery, designed around illumination-invariant matching and three-way geometric consistency.
+
+**Python · PyTorch · OpenCV · FastAPI · Next.js · Supabase**
+
+### [Freelance Agent](https://github.com/naman-in-ml/freelance-agent)
+
+An intelligence agent that collects freelance opportunities, ranks them against team skills, and generates proposal drafts with deterministic and optional LLM-assisted workflows.
+
+**Python · FastAPI · React · Vite · embeddings · Ollama · Docker**
+
+## Technical toolkit
+
+**Languages:** Python · TypeScript · JavaScript · Swift · C++
+
+**AI/ML:** PyTorch · OpenCV · embeddings · RAG · LLM APIs · computer vision
+
+**Web and backend:** React · Next.js · FastAPI · Node.js · Vite · REST APIs
+
+**Data and infrastructure:** PostgreSQL · Supabase · SQLite · Redis · Docker · GitHub Actions
+
+**Tools:** Linux · macOS · Git · uv · pnpm · Vercel · Kaggle
+
+## Currently learning
+
+- Reliable agent orchestration and evaluation
+- Distributed systems and production backend design
+- Better methods for measuring AI system quality
+
+## Let's connect
+
+I’m interested in practical AI, developer tools, research-driven products, and thoughtful open-source projects.
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/naman-pandey-ai107107bb">LinkedIn</a>
+  ·
+  <a href="mailto:YOUR_EMAIL_HERE">Email</a>
+</p>
