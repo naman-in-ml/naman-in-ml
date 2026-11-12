@@ -6,8 +6,6 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/naman-pandey-ai107107bb">LinkedIn</a>
-  ·
-  <a href="https://github.com/naman-in-ml">GitHub</a>
 </p>
 
 ## What I build
@@ -76,6 +74,4 @@ I’m interested in practical AI, developer tools, research-driven products, and
 
 <p align="center">
   <a href="https://www.linkedin.com/in/naman-pandey-ai107107bb">LinkedIn</a>
-  ·
-  <a href="mailto:YOUR_EMAIL_HERE">Email</a>
 </p>
