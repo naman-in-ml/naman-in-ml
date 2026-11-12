@@ -48,6 +48,6 @@ An intelligence agent that collects freelance opportunities, ranks them against 
 
 **Web and backend:** React · Next.js · FastAPI · Node.js · Vite · REST APIs
 
-**Data and infrastructure:** PostgreSQL · Supabase · SQLite · Redis · Docker · GitHub Actions
+**Data and infrastructure:** PostgreSQL · Supabase · SQLite · Redis · Docker
 
-**Tools:** Linux · macOS · Git
+**Tools:** Linux · macOS · Git · Xcode
