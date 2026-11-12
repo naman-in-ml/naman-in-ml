@@ -8,16 +8,6 @@
   <a href="https://www.linkedin.com/in/naman-pandey-ai107107bb">LinkedIn</a>
 </p>
 
-## What I build
-
-I like turning difficult workflows into useful software. My current interests are:
-
-- AI agents, automation, and retrieval-augmented systems
-- Local-first desktop applications that respect user data
-- Full-stack products with Python backends and modern web interfaces
-- Computer vision and scientific image analysis
-- Developer tools that make technical work easier to inspect and repeat
-
 ## Featured projects
 
 ### [Zentube](https://github.com/naman-in-ml/zentube)
@@ -61,17 +51,3 @@ An intelligence agent that collects freelance opportunities, ranks them against 
 **Data and infrastructure:** PostgreSQL · Supabase · SQLite · Redis · Docker · GitHub Actions
 
 **Tools:** Linux · macOS · Git · uv · pnpm · Vercel · Kaggle
-
-## Currently learning
-
-- Reliable agent orchestration and evaluation
-- Distributed systems and production backend design
-- Better methods for measuring AI system quality
-
-## Let's connect
-
-I’m interested in practical AI, developer tools, research-driven products, and thoughtful open-source projects.
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/naman-pandey-ai107107bb">LinkedIn</a>
-</p>
