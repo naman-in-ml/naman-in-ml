@@ -5,10 +5,26 @@
 </p>
 
 <p align="center">
+  <a href="https://portfolio-sand-beta-37.vercel.app">Portfolio</a>
+  ·
   <a href="https://www.linkedin.com/in/naman-pandey-ai107107bb">LinkedIn</a>
+  ·
+  <a href="mailto:naman.in.ml@gmail.com">Email</a>
 </p>
 
 ## Featured projects
+
+### [AI Coding Statuslines](https://github.com/naman-in-ml/ai-coding-statuslines)
+
+Lightweight, real-time terminal status lines for Codex, Google Antigravity (`agy`), and Claude Code displaying context window usage, 5-hour/weekly quota limits, and active Git branch deltas.
+
+**Python · Bash · PowerShell · CLI Tools**
+
+### [Fleet Monster](https://github.com/naman-in-ml/fleet-monster)
+
+An autonomous multi-agent evaluation and benchmark platform designed to test agent reliability, isolation, and capability across structured tasks.
+
+**Python · Pytest · Multi-Agent Systems · LLMs**
 
 ### [Zentube](https://github.com/naman-in-ml/zentube)
 
